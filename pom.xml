@@ -27,6 +27,12 @@
            <version>4.5.0</version>
            <classifier>models</classifier>
        </dependency>
+
+       <dependency>
+           <groupId>com.assemblyai</groupId>
+           <artifactId>assemblyai-java</artifactId>
+           <version>1.0.1</version>
+       </dependency>
    </dependencies  >
 
 
